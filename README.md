@@ -9,6 +9,12 @@ My name is Yasin. I am a self-taught programmer currently learning Python, Java,
   <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 </p>
 
+## Contact Me 📬
+<a href="www.linkedin.com/in/yasinsenirl"><img width="26px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="mailto:yasinsn111@hotmail.com"><img width="26px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="mail"/></a>
+
+
+
 <!--
 **XYSNX/xysnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
