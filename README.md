@@ -13,6 +13,7 @@ My name is Yasin. I am a self-taught programmer currently learning Python, Java,
 ## Contact Me 📬
 <p>
 <a href="www.linkedin.com/in/yasinsenirl"><img width="26px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  
 <a href="mailto:yasinsn111@hotmail.com"><img width="26px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="mail"/></a>
 </p>
 
